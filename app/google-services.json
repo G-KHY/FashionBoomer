@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "493411324569",
+    "project_id": "fashion-boomer",
+    "storage_bucket": "fashion-boomer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493411324569:android:40c8ad090e61e0ca62de08",
+        "android_client_info": {
+          "package_name": "com.example.fashionboomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493411324569-pvvca40g052l780l94tncerj1s4elqnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fashionboomer",
+            "certificate_hash": "c84a677ad2a27cfa29aa83e924939ab7eeb06652"
+          }
+        },
+        {
+          "client_id": "493411324569-fip5847dpbfclm97hocm6e7ojsbmcjt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPKAfw6pnyADzMkZePLpwON7KLQMx4h0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493411324569-fip5847dpbfclm97hocm6e7ojsbmcjt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

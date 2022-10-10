@@ -1,0 +1,51 @@
+<resources>
+    //google 로그인 oauth web id
+    <string name="server_client_id">493411324569-fip5847dpbfclm97hocm6e7ojsbmcjt7.apps.googleusercontent.com</string>
+
+
+    //Activity 필요하는 부분
+    <string name="title_activity_home"></string>
+
+    //로그인 화면의 문자열
+    <string name="app_name">Fashion Boomer</string>
+    <string name="id">ID를 입력하세요</string>
+    <string name="password">비밀번호를 입력하세요</string>
+    <string name="login">로그인</string>
+    <string name="vip">회원가입</string>
+
+    //회원가입 부분의 문자열
+    <string name="password2">비밀번호를 한번 더 입력하세요</string>
+    <string name="man">남</string>
+    <string name="woman">여</string>
+
+    //주 Activity 의 문자열
+    <string name="home">홈</string>
+    <string name="게시판">게시판</string>
+    <string name="개인정보">개인정보</string>
+
+    //계절 산택 부분의 문자열
+    <string name="계절산택하세요">계절산택하세요</string>
+    <string name="봄">봄</string>
+    <string name="여름">여름</string>
+    <string name="가을">가을</string>
+    <string name="겨울">겨울</string>
+
+
+    //옷 종류 산택의 문자열
+    <string name="옷종류산택하세요">옷종류산택하세요</string>
+    <string name="상의">상의</string>
+    <string name="하의">하의</string>
+    <string name="신발">신발</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_home2">homeActivity2</string>
+
+    //옷 품류 산택의 문자열
+
+
+    //게시판의 문자열
+
+
+    //개인정보의 문자열
+</resources>
