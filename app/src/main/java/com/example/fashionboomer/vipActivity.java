@@ -105,7 +105,7 @@ public class vipActivity extends AppCompatActivity {
                 //startActivity(new Intent(getApplication(),MainActivity.class));
 
                 Intent intent = new Intent();
-                //将想要传递的数据用putExtra封装在intent中
+                //보내고 싶는 데이터를 putExtra 이용하여 intent 중에 넣는다
                 intent.putExtra("a","회원가입");
                 setResult(RESULT_CANCELED,intent);
                 finish();
